@@ -1,0 +1,20 @@
+# My First GitHub Repository
+
+Hello 
+This is my first ever repository on GitHub.
+
+I am currently in the learning phase and using this repository to:
+- Practice Git and GitHub commands
+- Understand version control
+- Learn how repositories, commits, and pushes work
+- Build a strong foundation for DevOps and software development
+
+This repository may contain:
+- Test files
+- Practice code
+- Notes and experiments
+
+More updates will be added as I continue learning
+
+: Raaj
+
